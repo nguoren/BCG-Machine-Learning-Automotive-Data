@@ -32,16 +32,16 @@
 
 ## Linear Regression Model
 - Features selected: <br>
-  i) fuel_type <br>
-  ii) aspiration <br>
-  iii) body_style <br>
-  iv) drive_wheels <br>
-  v) engine_type <br>
-  vi) num_of_cylinders <br>
-  vii) fuel_system <br>
-  viii) curb_weight <br>
-  ix) engine_size <br>
-  j) highway_mpg <br>
+  - i) fuel_type <br>
+  - ii) aspiration <br>
+  - iii) body_style <br>
+  - iv) drive_wheels <br>
+  - v) engine_type <br>
+  - vi) num_of_cylinders <br>
+  - vii) fuel_system <br>
+  - viii) curb_weight <br>
+  - ix) engine_size <br>
+  - x) highway_mpg <br>
 
 - Model Evaluation: <br>
   - Mean Square Error      = 0.033569793443127736
